@@ -47,25 +47,16 @@
   </url>
   
   <url>
-    <loc>https://www.lxyblog.top/box/nav/index.html</loc>
-    
-    <lastmod>2023-03-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.lxyblog.top/life/movies/index.html</loc>
-    
-    <lastmod>2023-03-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.lxyblog.top/box/gallery/index.html</loc>
+    
+    <lastmod>2023-03-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.lxyblog.top/box/nav/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
@@ -83,16 +74,7 @@
   </url>
   
   <url>
-    <loc>https://www.lxyblog.top/personal/about/index.html</loc>
-    
-    <lastmod>2023-03-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.lxyblog.top/life/music/index.html</loc>
+    <loc>https://www.lxyblog.top/life/movies/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
@@ -110,25 +92,7 @@
   </url>
   
   <url>
-    <loc>https://www.lxyblog.top/social/fcircle/index.html</loc>
-    
-    <lastmod>2023-03-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.lxyblog.top/site/census/index.html</loc>
-    
-    <lastmod>2023-03-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.lxyblog.top/social/link/index.html</loc>
+    <loc>https://www.lxyblog.top/life/music/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
@@ -146,7 +110,52 @@
   </url>
   
   <url>
+    <loc>https://www.lxyblog.top/site/census/index.html</loc>
+    
+    <lastmod>2023-03-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.lxyblog.top/personal/about/index.html</loc>
+    
+    <lastmod>2023-03-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.lxyblog.top/social/fcircle/index.html</loc>
+    
+    <lastmod>2023-03-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.lxyblog.top/social/link/index.html</loc>
+    
+    <lastmod>2023-03-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.lxyblog.top/posts/2013454d.html</loc>
+    
+    <lastmod>2022-10-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.lxyblog.top/posts/20244113d.html</loc>
     
     <lastmod>2022-10-23</lastmod>
     
@@ -200,6 +209,13 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://www.lxyblog.top/tags/java/</loc>
+    <lastmod>2024-01-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -211,6 +227,13 @@
   
   <url>
     <loc>https://www.lxyblog.top/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/</loc>
+    <lastmod>2024-01-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.lxyblog.top/categories/Java%E5%9F%BA%E7%A1%80/</loc>
     <lastmod>2024-01-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
